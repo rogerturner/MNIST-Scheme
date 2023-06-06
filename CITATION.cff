@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: MNIST-Scheme
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Roger
+    family-names: Turner
+repository-code: 'https://github.com/rogerturner/MNIST-Scheme'
+abstract: >-
+  A MNIST classifier using a HTM (Hierarchical Temporal Memory) Spatial Pooler algorithm
+  implemented in Chez Scheme
+keywords:
+  - Hierarchical Temporal Memory
+  - Chez Scheme
+license: AGPL-3.0-or-later
